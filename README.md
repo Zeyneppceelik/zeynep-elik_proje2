@@ -43,7 +43,7 @@ Bu proje, Visual Studio ortamında C# dili kullanılarak geliştirilmiş, *tamam
 ### Adımlar
 1.  *Projeyi Klonlayın veya İndirin:*
     bash
-    git clone https://github.com/[Zeyneppceelik]/[zeynep-elik_proje2].git
+    git clone https://github.com/[Zeyneppceelik]/[zeynep-elik_proje2].git https://github.com/Zeyneppceelik/zeynep-elik_proje2/edit/master/README.md
     
 
 2.  *Projeyi Visual Studio'da Açın:*
