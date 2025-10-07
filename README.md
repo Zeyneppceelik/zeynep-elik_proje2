@@ -91,3 +91,4 @@ Bu proje, Visual Studio ortamında C# dili kullanılarak geliştirilmiş, *tamam
 ## 📜 Lisans
 
 Bu proje MIT Lisansı altında dağıtılmaktadır. 
+YOUTUBE VİDEO LİNKİ : https://youtu.be/Wc3LSWdwwzw?si=-tiGLEcYj69-0z_o
